@@ -1,4 +1,4 @@
-# Skin Lesions HM10000
+# Skin Lesions HAM10000
 
 
 Binary (benign / malignant) skin lesion classification using the HAM10000 dataset
